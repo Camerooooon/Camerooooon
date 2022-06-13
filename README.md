@@ -1,7 +1,7 @@
 ### Hi, Im Cameron!
-I'm a programmer who takes interest in Chemistry and Engineering. Take a look at my projects to learn more about me.
+I'm a programmer who also takes interest in Photography, Chemistry and Engineering. Take a look at my projects to learn more about me.
 - [Check out my programming log](https://github.com/Camerooooon/dev-log/tree/main/logs)
-- I'm working on my Rust skills
+- I'm working on improving my Rust skills
 - If you want to collaborate on any of my projects feel free to create and issue or a pull request
 - My pronouns are He/Him
 
