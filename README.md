@@ -1,4 +1,4 @@
-### Hi, Im Cameron!
+### Hi, I'm Cameron!
 I'm a programmer who also takes interest in Photography, Chemistry and Engineering. Take a look at my projects to learn more about me.
 - [Check out my programming log](https://github.com/Camerooooon/dev-log/tree/main/logs)
 - I'm working on improving my Rust skills
